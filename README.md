@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ciel%20Sec&fontAlign=50&fontAlignY=40&color=0:0b0f1a,50:111827,100:00f5ff&fontColor=39ff14&desc=Offensive%20Security%20%7C%20Red%20Team&descAlignY=60&animation=fadeIn" alt="Ciel Sec Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ciel%20Sec&fontAlign=50&fontAlignY=38&color=0:0b0512,35:1a0933,70:3b0a63,100:7c3aed&fontColor=c084fc&desc=Offensive%20Security%20%7C%20Red%20Team%20Operations&descAlignY=60&animation=twinkling" alt="Ciel Sec Banner" />
 </div>
 
 <div align="center">
@@ -12,10 +12,23 @@
 </p>
 
 <p>
-  <a href="mailto:pedrodomore@gmail.com"><img src="https://img.shields.io/badge/Email-pedrodomore%40gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Discord-ciel666-39ff14?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
+  <img src="https://img.shields.io/badge/Profile-ACTIVE-7c3aed?style=for-the-badge&logo=protondb&logoColor=ffffff" alt="Profile Active" />
+  <img src="https://img.shields.io/badge/Mode-Purple%20Ops-9333ea?style=for-the-badge&logo=opsgenie&logoColor=ffffff" alt="Purple Ops" />
+  <img src="https://img.shields.io/badge/Focus-Authorized%20Exploitation-a855f7?style=for-the-badge&logo=target&logoColor=ffffff" alt="Authorized Exploitation" />
 </p>
 
+<p>
+  <a href="mailto:pedrodomore@gmail.com"><img src="https://img.shields.io/badge/Email-pedrodomore%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Discord-ciel666-a78bfa?style=for-the-badge&logo=discord&logoColor=1f1135" alt="Discord" />
+</p>
+
+</div>
+
+<hr>
+
+<div align="center">
+  <img width="46%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ4a2N2Y2NleTRqdDY3bDZ4ejNwNWRpcDFwMWY3NnJlZHlkdDV6NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRSnxyhJnPsaQy9YLn/giphy.gif" alt="Anime Hacker Visual 1" />
+  <img width="46%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M5djFtcmY3eWE4dnM4NjVpNXRkNjJ4emR3MHVoa3Q0N3M2M2V5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" alt="Anime Hacker Visual 2" />
 </div>
 
 <hr>
@@ -26,22 +39,22 @@
 
 ### Linguagens
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=39ff14" alt="Python" />
-<img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=00f5ff" alt="Bash" />
-<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=39ff14" alt="C" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=00f5ff" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=39ff14" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-1b102e?style=for-the-badge&logo=python&logoColor=c084fc" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-1b102e?style=for-the-badge&logo=gnubash&logoColor=d8b4fe" alt="Bash" />
+<img src="https://img.shields.io/badge/C-1b102e?style=for-the-badge&logo=c&logoColor=a78bfa" alt="C" />
+<img src="https://img.shields.io/badge/JavaScript-1b102e?style=for-the-badge&logo=javascript&logoColor=e9d5ff" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-1b102e?style=for-the-badge&logo=postgresql&logoColor=c4b5fd" alt="SQL" />
 
 ### Ferramentas
 
-<img src="https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=00f5ff" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=gnuprivacyguard&logoColor=39ff14" alt="Nmap" />
-<img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=00f5ff" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/SQLmap-111827?style=for-the-badge&logo=databricks&logoColor=39ff14" alt="SQLmap" />
-<img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=metasploit&logoColor=00f5ff" alt="Metasploit" />
-<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=39ff14" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Hashcat-111827?style=for-the-badge&logo=hackaday&logoColor=00f5ff" alt="Hashcat" />
-<img src="https://img.shields.io/badge/BloodHound-111827?style=for-the-badge&logo=redhat&logoColor=39ff14" alt="BloodHound" />
+<img src="https://img.shields.io/badge/Kali%20Linux-1b102e?style=for-the-badge&logo=kalilinux&logoColor=c084fc" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Nmap-1b102e?style=for-the-badge&logo=gnuprivacyguard&logoColor=d8b4fe" alt="Nmap" />
+<img src="https://img.shields.io/badge/Burp%20Suite-1b102e?style=for-the-badge&logo=burpsuite&logoColor=a78bfa" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/SQLmap-1b102e?style=for-the-badge&logo=databricks&logoColor=e9d5ff" alt="SQLmap" />
+<img src="https://img.shields.io/badge/Metasploit-1b102e?style=for-the-badge&logo=metasploit&logoColor=c4b5fd" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Wireshark-1b102e?style=for-the-badge&logo=wireshark&logoColor=c084fc" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Hashcat-1b102e?style=for-the-badge&logo=hackaday&logoColor=d8b4fe" alt="Hashcat" />
+<img src="https://img.shields.io/badge/BloodHound-1b102e?style=for-the-badge&logo=redhat&logoColor=a78bfa" alt="BloodHound" />
 
 </div>
 
@@ -51,11 +64,11 @@
   <summary><strong>Projetos</strong></summary>
   <br>
 
-- **Central de Pentest automatizada** para orquestração de varreduras, enumeração e reporting técnico.
-- **Ferramenta estilo Havij com integração SQLmap** para validação e exploração controlada de SQL Injection.
-- **C2 Server experimental para laboratório** com foco em simulações internas e estudo de tradecraft.
-- **Scripts de automação ofensiva** para acelerar reconhecimento, coleta de evidências e pós-exploração autorizada.
-- **Dashboard dark neon para análise de vulnerabilidades** com visão tática para tomada de decisão rápida.
+- **Central de Pentest automatizada** para orquestrar varreduras, enumeração e geração de evidências técnicas.
+- **Ferramenta estilo Havij com integração SQLmap** para validação e exploração controlada de SQLi em ambientes autorizados.
+- **C2 Server experimental para laboratório** focado em simulações internas e estudo de TTPs ofensivas.
+- **Scripts de automação ofensiva** para acelerar reconhecimento, coleta de artefatos e pós-exploração sob escopo.
+- **Dashboard dark neon para análise de vulnerabilidades** com visão operacional para priorização de risco.
 
 </details>
 
@@ -65,8 +78,8 @@
   <summary><strong>Filosofia</strong></summary>
   <br>
 
-> Quebrar sistemas autorizados não é caos — é engenharia ofensiva aplicada com disciplina.  
-> Foco em lógica, exploração ética e fortalecimento real de ambientes críticos.
+> Engenharia ofensiva não é sobre ruído — é sobre precisão.  
+> Lógica, exploração ética e quebra autorizada para fortalecer sistemas reais.
 
 </details>
 
@@ -76,9 +89,63 @@
 
 ## GitHub Intel
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cielsec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=39ff14&icon_color=00f5ff&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cielsec&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=39ff14&text_color=c9d1d9" alt="Top Languages" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=cielsec&theme=tokyonight&hide_border=true&background=00000000&ring=39ff14&fire=00f5ff&currStreakLabel=39ff14" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cielsec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=a78bfa&text_color=e5e7eb" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cielsec&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=e5e7eb" alt="Top Languages" />
+<br>
+<img height="170" src="https://streak-stats.demolab.com?user=cielsec&theme=tokyonight&hide_border=true&background=00000000&ring=c084fc&fire=a78bfa&currStreakLabel=c084fc" alt="GitHub Streak" />
 
 </div>
+
+<hr>
+
+<details>
+  <summary><strong>Prompt Avançado (reutilizável para refazer este perfil)</strong></summary>
+  <br>
+
+```text
+Crie um README.md profissional para perfil GitHub com estética hacker dark/neon em tons de roxo.
+
+Perfil: Ciel Sec
+Título central: Ciel Sec — Offensive Security & Red Team
+
+Requisitos visuais:
+- Usar apenas Markdown + HTML permitido pelo GitHub (sem JS, sem CSS externo).
+- Layout centralizado com <div align="center">.
+- Inserir <hr> entre seções.
+- Usar badges do shields.io em paleta roxa.
+- Incluir pelo menos 2 GIFs de anime com vibe hacker/cyberpunk.
+- Usar <details> + <summary> para seções expansíveis.
+
+Conteúdo obrigatório:
+1) Banner no topo (capsule-render ou imagem placeholder).
+2) Bio técnica curta com:
+   - Pentest avançado
+   - Offensive Security
+   - Red Team mindset
+   - Desenvolvimento de ferramentas próprias
+   - Automação e exploração controlada
+3) Tech Stack:
+   Linguagens: Python (principal), Bash, C, JavaScript, SQL
+   Ferramentas: Kali Linux, Nmap, Burp Suite, SQLmap, Metasploit, Wireshark, Hashcat, BloodHound
+4) Projetos:
+   - Central de Pentest automatizada
+   - Ferramenta estilo Havij com integração SQLmap
+   - C2 Server experimental para laboratório
+   - Scripts de automação ofensiva
+   - Dashboard dark neon para análise de vulnerabilidades
+5) Filosofia: texto curto e impactante sobre lógica, exploração ética e fortalecimento.
+6) GitHub stats:
+   - github-readme-stats (overall)
+   - top languages
+   - streak card
+7) Contatos:
+   - Email: pedrodomore@gmail.com
+   - Discord: ciel666
+
+Tom de voz:
+- Técnico e profissional
+- Leve atitude hacker confiante e dominante
+- Sem infantilidade, sem linguagem ofensiva tóxica
+```
+
+</details>
