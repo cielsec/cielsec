@@ -27,8 +27,7 @@
 <hr>
 
 <div align="center">
-  <img width="46%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ4a2N2Y2NleTRqdDY3bDZ4ejNwNWRpcDFwMWY3NnJlZHlkdDV6NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRSnxyhJnPsaQy9YLn/giphy.gif" alt="Anime Hacker Visual 1" />
-  <img width="46%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M5djFtcmY3eWE4dnM4NjVpNXRkNjJ4emR3MHVoa3Q0N3M2M2V5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" alt="Anime Hacker Visual 2" />
+  <img width="46%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M5djFtcmY3eWE4dnM4NjVpNXRkNjJ4emR3MHVoa3Q0N3M2M2V5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif](https://i.pinimg.com/originals/10/48/c4/1048c4fe6c7f87c4d1c99641f62ebedc.gif)" alt="Anime Hacker Visual 2" />
 </div>
 
 <hr>
